@@ -1,6 +1,6 @@
-# Olá, eu sou [SEU NOME] 👋
+# Olá, eu sou Pedro Maia 👋
 
-Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonado por tecnologia e por aprender construindo projetos na prática. Estou no começo da jornada, mas com muita vontade de evoluir a cada commit. 🚀
+Estudante de Análise e Desenvolvimento de Sistemas (ADS), apaixonado por tecnologia e por aprender construindo projetos na prática. Estou no começo da jornada, mas com muita vontade de evoluir a cada commit. 🚀
 
 ---
 
